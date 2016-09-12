@@ -3,7 +3,7 @@ public class DebugEleven2
 {
    public static void main(String[] args)
    {
-      DebugBoat[] ref = FixDebugBoat[3];
+      DebugBoat[] ref = DebugBoat[3];
       DebugRowboat blueBoat = DebugRowboat();
       DebugRowboat redBoat = DebugRowboat();
       DebugOceanLiner bigBoat = DebugOceanLiner();
